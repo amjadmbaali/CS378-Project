@@ -1,4 +1,3 @@
-# CS378-Project
 # Student Services Platform – Appointment & Notification System
 
 A web application that simplifies communication between students and instructors: students can search for staff, view their office hours, book appointments, and subscribe to updates. Built as a team project for **CS378 – Introduction to Web Development** at Yanbu Industrial College.
