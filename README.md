@@ -1,2 +1,1 @@
-# Projects
-My academic projects
+# CS378-Project
